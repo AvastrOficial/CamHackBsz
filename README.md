@@ -1,6 +1,6 @@
 # CamHackBsz
 
-> CamPhish es una técnica para tomar fotografías de la cámara del teléfono del objetivo o de la cámara web de la PC. CamPhish aloja un sitio web falso en un servidor PHP integrado y servero para generar un enlace que reenviaremos al objetivo, que se puede utilizar a través de Internet. El sitio web solicita permiso de la cámara y, si el objetivo lo permite, esta herramienta graba imágenes del dispositivo del objetivo.
+> CamHackBsz es una técnica para tomar fotografías de la cámara del teléfono del objetivo o de la cámara web de la PC. CamPhish aloja un sitio web falso en un servidor PHP integrado y servero para generar un enlace que reenviaremos al objetivo, que se puede utilizar a través de Internet. El sitio web solicita permiso de la cámara y, si el objetivo lo permite, esta herramienta graba imágenes del dispositivo del objetivo.
 
 # Características
 > En esta herramienta agregué dos plantillas de página web automáticas para el objetivo comprometido en la página web para obtener más imágenes de la cámara.
