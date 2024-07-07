@@ -20,6 +20,10 @@
 <br></br>
 > apt-get -y install php openssh git wget
 <br></br>
+> pip install -r requirements.txt
+<br></br>
 > bash camphish.sh
+
+
 
   
