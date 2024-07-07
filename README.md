@@ -14,7 +14,7 @@
 > apt-get -y instalar php openssh git wget
 <br></br>
 # Instalación (Kali Linux/Termux):
-> clon de git https://github.com/baradatipu/CamPhish
+> git clon https://github.com/baradatipu/CamPhish
 <br></br>
 > cd camphish
 <br></br>
