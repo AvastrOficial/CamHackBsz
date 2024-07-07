@@ -22,7 +22,7 @@
 <br></br>
 > pip install -r requirements.txt
 <br></br>
-> bash camphish.sh
+> bash CamHackBsz.sh
 
 # Emulalo en replit :
 https://replit.com/@StrAva1/camhack
