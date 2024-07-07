@@ -1,4 +1,5 @@
 # CamHackBsz
+![image](https://github.com/AvastrOficial/CamHackBsz/assets/91764815/97199f57-8987-4b5a-b1e4-29f46924bee8)
 
 > CamHackBsz es una técnica para tomar fotografías de la cámara del teléfono del objetivo o de la cámara web de la PC. CamHackBsz aloja un sitio web falso en un servidor PHP integrado y servero para generar un enlace que reenviaremos al objetivo, que se puede utilizar a través de Internet. El sitio web solicita permiso de la cámara y, si el objetivo lo permite, esta herramienta graba imágenes del dispositivo del objetivo.
 
