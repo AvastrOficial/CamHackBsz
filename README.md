@@ -21,7 +21,11 @@
 > apt-get -y install php openssh git wget
 <br></br>
 > bash CamHackBsz.sh
-
+# Como abrir una iamgen en termux :
+> xdg-open cam07Jul2024181938.png
+<br></br>
+# Si no te funciona la primera opcion abre un local para visualizar la imagen
+> xdg-open "http://0.0.0.0:8080/cam07Jul2024181938.png"
 # Emulalo en replit :
 https://replit.com/@StrAva1/camhack
 
